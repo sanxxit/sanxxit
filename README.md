@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning fullstack development,large language models<br>👯 I’m looking to collaborate on opensource projects<br><br>💬 Ask me about economics, algorithms, dating <br>⚡ Fun fact: part-time relationship advisor
+🔭 I’m currently learning fullstack development,large language models<br>👯 I’m looking to collaborate on opensource projects<br>💬 Ask me about economics, algorithms, dating <br>⚡ Fun fact: part-time relationship advisor
 
 
 ## 🌐 Socials:
